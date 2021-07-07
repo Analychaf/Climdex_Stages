@@ -1,0 +1,127 @@
+"","Station","Agriyear","Climdex","Climdex_description","1_Planting_to_Emergence","2_Emergence_to_Leaf5","3_Leaf5_to_Flag_leaf_Emerged","4_FlagLeaf_Emerged_to_Headed","5_Headed_to_FloweringCompleted","6_FloweringCompleted_to_Kernel_WateryRipe"
+"1","Laanaceur","2017_2018","NumberofDays","NumberofDays",13,56,37,28,5,4
+"2","Laanaceur","2017_2018","FD","No.of frost Days",0,2,1,0,0,0
+"3","Laanaceur","2017_2018","ID","No. of Icing Days",0,0,0,0,0,0
+"4","Laanaceur","2017_2018","SU","No.of Summer Days",11,2,0,0,1,1
+"5","Laanaceur","2017_2018","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"6","Laanaceur","2017_2018","TR","No.of tropical nights",0,0,0,0,0,0
+"7","Laanaceur","2017_2018","R5mm","No.of Days rain >= 5mm",0.4,228.8,77.6,201.8,0.6,0.2
+"8","Laanaceur","2017_2018","R10mm","No.of Days rain >= 10mm",0.4,228.8,77.6,201.8,0.6,0.2
+"9","Laanaceur","2017_2018","SDII","Simple precipitation intensity index ",0,16.34,7.76,11.87,0,0
+"10","Laanaceur","2017_2018","Rx5day","Max 5 Days Precipitation",0.4,73.6,45.4,97.8,0.6,0
+"11","Laanaceur","2017_2018","PRECtot","Total Precipitation",0.4,228.8,77.6,201.8,0.6,0.2
+"12","Laanaceur","2017_2018","DTR","Average Temperature Range",21.66,12.48,11.94,9.6,13.12,14.65
+"13","Laanaceur","2017_2018","CDD","Maximum length of dry spell",13,56,37,28,5,4
+"14","Laanaceur","2017_2018","CWD","Maximum length of wet spell",13,56,37,28,5,4
+"15","Laanaceur","2018_2019","NumberofDays","NumberofDays",12,54,34,27,5,3
+"16","Laanaceur","2018_2019","FD","No.of frost Days",0,12,2,0,0,0
+"17","Laanaceur","2018_2019","ID","No. of Icing Days",0,0,0,0,0,0
+"18","Laanaceur","2018_2019","SU","No.of Summer Days",0,0,5,10,4,2
+"19","Laanaceur","2018_2019","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"20","Laanaceur","2018_2019","TR","No.of tropical nights",0,0,0,0,0,0
+"21","Laanaceur","2018_2019","R5mm","No.of Days rain >= 5mm",65.6,61,34.2,10.8,2.6,6.8
+"22","Laanaceur","2018_2019","R10mm","No.of Days rain >= 10mm",65.6,61,34.2,10.8,2.6,6.8
+"23","Laanaceur","2018_2019","SDII","Simple precipitation intensity index ",9.37,20.33,5.7,3.6,1.3,3.4
+"24","Laanaceur","2018_2019","Rx5day","Max 5 Days Precipitation",50.4,41,16.6,9.4,2.6,0
+"25","Laanaceur","2018_2019","PRECtot","Total Precipitation",65.6,61,34.2,10.8,2.6,6.8
+"26","Laanaceur","2018_2019","DTR","Average Temperature Range",10.12,15.69,14.01,17.91,14.69,14.98
+"27","Laanaceur","2018_2019","CDD","Maximum length of dry spell",12,54,34,27,5,3
+"28","Laanaceur","2018_2019","CWD","Maximum length of wet spell",12,54,34,27,5,3
+"29","Laanaceur","2019_2020","NumberofDays","NumberofDays",12,50,32,27,5,4
+"30","Laanaceur","2019_2020","FD","No.of frost Days",0,4,0,0,0,0
+"31","Laanaceur","2019_2020","ID","No. of Icing Days",0,0,0,0,0,0
+"32","Laanaceur","2019_2020","SU","No.of Summer Days",0,0,3,11,1,0
+"33","Laanaceur","2019_2020","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"34","Laanaceur","2019_2020","TR","No.of tropical nights",0,0,0,0,0,0
+"35","Laanaceur","2019_2020","R5mm","No.of Days rain >= 5mm",20.4,48.4,36,3.4,45.8,11.2
+"36","Laanaceur","2019_2020","R10mm","No.of Days rain >= 10mm",20.4,48.4,36,3.4,45.8,11.2
+"37","Laanaceur","2019_2020","SDII","Simple precipitation intensity index ",4.08,9.68,7.2,3.4,45.8,5.6
+"38","Laanaceur","2019_2020","Rx5day","Max 5 Days Precipitation",11.2,22.6,21.4,2.6,45.8,0
+"39","Laanaceur","2019_2020","PRECtot","Total Precipitation",20.4,48.4,36,3.4,45.8,11.2
+"40","Laanaceur","2019_2020","DTR","Average Temperature Range",11.58,14.24,16.2,18.48,14.89,10.93
+"41","Laanaceur","2019_2020","CDD","Maximum length of dry spell",12,50,32,27,5,4
+"42","Laanaceur","2019_2020","CWD","Maximum length of wet spell",12,50,32,27,5,4
+"43","Merchouch","2017_2018","NumberofDays","NumberofDays",13,60,40,34,6,3
+"44","Merchouch","2017_2018","FD","No.of frost Days",0,0,1,0,0,0
+"45","Merchouch","2017_2018","ID","No. of Icing Days",0,0,0,0,0,0
+"46","Merchouch","2017_2018","SU","No.of Summer Days",9,1,0,0,0,3
+"47","Merchouch","2017_2018","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"48","Merchouch","2017_2018","TR","No.of tropical nights",0,0,0,0,0,0
+"49","Merchouch","2017_2018","R5mm","No.of Days rain >= 5mm",0,189.4,140.2,68.2,53.4,0.6
+"50","Merchouch","2017_2018","R10mm","No.of Days rain >= 10mm",0,189.4,140.2,68.2,53.4,0.6
+"51","Merchouch","2017_2018","SDII","Simple precipitation intensity index ",0,13.53,10.01,6.2,10.68,0
+"52","Merchouch","2017_2018","Rx5day","Max 5 Days Precipitation",0,83.6,62,22.8,53.2,0
+"53","Merchouch","2017_2018","PRECtot","Total Precipitation",0,189.4,140.2,68.2,53.4,0.6
+"54","Merchouch","2017_2018","DTR","Average Temperature Range",18.98,10.84,10.68,11.08,10.45,17.68
+"55","Merchouch","2017_2018","CDD","Maximum length of dry spell",13,60,40,34,6,3
+"56","Merchouch","2017_2018","CWD","Maximum length of wet spell",13,60,40,34,6,3
+"57","Merchouch","2018_2019","NumberofDays","NumberofDays",13,56,36,28,6,5
+"58","Merchouch","2018_2019","FD","No.of frost Days",0,7,1,0,0,0
+"59","Merchouch","2018_2019","ID","No. of Icing Days",0,0,0,0,0,0
+"60","Merchouch","2018_2019","SU","No.of Summer Days",0,0,4,10,0,0
+"61","Merchouch","2018_2019","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"62","Merchouch","2018_2019","TR","No.of tropical nights",0,0,0,0,0,0
+"63","Merchouch","2018_2019","R5mm","No.of Days rain >= 5mm",50.2,39.13,23.39,13.2,18.4,7.2
+"64","Merchouch","2018_2019","R10mm","No.of Days rain >= 10mm",50.2,39.13,23.39,13.2,18.4,7.2
+"65","Merchouch","2018_2019","SDII","Simple precipitation intensity index ",8.37,7.83,5.85,3.3,4.6,7.2
+"66","Merchouch","2018_2019","Rx5day","Max 5 Days Precipitation",33.6,26,15,9,18,7.2
+"67","Merchouch","2018_2019","PRECtot","Total Precipitation",50.2,39.13,23.39,13.2,18.4,7.2
+"68","Merchouch","2018_2019","DTR","Average Temperature Range",8.25,14.13,14.75,16.24,10.79,9.72
+"69","Merchouch","2018_2019","CDD","Maximum length of dry spell",13,56,36,28,6,5
+"70","Merchouch","2018_2019","CWD","Maximum length of wet spell",13,56,36,28,6,5
+"71","Merchouch","2019_2020","NumberofDays","NumberofDays",14,54,30,30,6,4
+"72","Merchouch","2019_2020","FD","No.of frost Days",0,0,0,0,0,0
+"73","Merchouch","2019_2020","ID","No. of Icing Days",0,0,0,0,0,0
+"74","Merchouch","2019_2020","SU","No.of Summer Days",0,0,5,9,0,0
+"75","Merchouch","2019_2020","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"76","Merchouch","2019_2020","TR","No.of tropical nights",0,0,0,0,0,0
+"77","Merchouch","2019_2020","R5mm","No.of Days rain >= 5mm",24.4,93.4,9.8,18.6,40.4,11.2
+"78","Merchouch","2019_2020","R10mm","No.of Days rain >= 10mm",24.4,93.4,9.8,18.6,40.4,11.2
+"79","Merchouch","2019_2020","SDII","Simple precipitation intensity index ",4.88,13.34,4.9,4.65,40.4,5.6
+"80","Merchouch","2019_2020","Rx5day","Max 5 Days Precipitation",12.8,44.8,7.2,15.6,40.4,0
+"81","Merchouch","2019_2020","PRECtot","Total Precipitation",24.4,93.4,9.8,18.6,40.4,11.2
+"82","Merchouch","2019_2020","DTR","Average Temperature Range",10.91,12.26,14.88,15.6,10.84,11.24
+"83","Merchouch","2019_2020","CDD","Maximum length of dry spell",14,54,30,30,6,4
+"84","Merchouch","2019_2020","CWD","Maximum length of wet spell",14,54,30,30,6,4
+"85","SidElAidi","2017_2018","NumberofDays","NumberofDays",13,58,39,31,6,5
+"86","SidElAidi","2017_2018","FD","No.of frost Days",0,2,2,0,0,0
+"87","SidElAidi","2017_2018","ID","No. of Icing Days",0,0,0,0,0,0
+"88","SidElAidi","2017_2018","SU","No.of Summer Days",11,1,0,1,0,0
+"89","SidElAidi","2017_2018","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"90","SidElAidi","2017_2018","TR","No.of tropical nights",0,0,0,0,0,0
+"91","SidElAidi","2017_2018","R5mm","No.of Days rain >= 5mm",0,123.8,74,59.4,12.6,34.4
+"92","SidElAidi","2017_2018","R10mm","No.of Days rain >= 10mm",0,123.8,74,59.4,12.6,34.4
+"93","SidElAidi","2017_2018","SDII","Simple precipitation intensity index ",0,10.32,6.17,5.4,6.3,8.6
+"94","SidElAidi","2017_2018","Rx5day","Max 5 Days Precipitation",0,65.6,35.4,32.6,12.6,34.4
+"95","SidElAidi","2017_2018","PRECtot","Total Precipitation",0,123.8,74,59.4,12.6,34.4
+"96","SidElAidi","2017_2018","DTR","Average Temperature Range",20.91,13.56,12.52,12.61,12.9,12.48
+"97","SidElAidi","2017_2018","CDD","Maximum length of dry spell",13,58,39,31,6,5
+"98","SidElAidi","2017_2018","CWD","Maximum length of wet spell",13,58,39,31,6,5
+"99","SidElAidi","2018_2019","NumberofDays","NumberofDays",12,54,35,28,5,3
+"100","SidElAidi","2018_2019","FD","No.of frost Days",0,10,2,1,0,0
+"101","SidElAidi","2018_2019","ID","No. of Icing Days",0,0,0,0,0,0
+"102","SidElAidi","2018_2019","SU","No.of Summer Days",0,5,5,12,2,0
+"103","SidElAidi","2018_2019","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"104","SidElAidi","2018_2019","TR","No.of tropical nights",0,0,0,0,0,0
+"105","SidElAidi","2018_2019","R5mm","No.of Days rain >= 5mm",92.6,23.6,35.6,1.2,0.8,15.6
+"106","SidElAidi","2018_2019","R10mm","No.of Days rain >= 10mm",92.6,23.6,35.6,1.2,0.8,15.6
+"107","SidElAidi","2018_2019","SDII","Simple precipitation intensity index ",13.23,11.8,11.87,0,0,7.8
+"108","SidElAidi","2018_2019","Rx5day","Max 5 Days Precipitation",78.6,12.8,14.2,0.8,0.8,0
+"109","SidElAidi","2018_2019","PRECtot","Total Precipitation",92.6,23.6,35.6,1.2,0.8,15.6
+"110","SidElAidi","2018_2019","DTR","Average Temperature Range",8.35,17.16,16.06,18.74,15.15,11.68
+"111","SidElAidi","2018_2019","CDD","Maximum length of dry spell",12,54,35,28,5,3
+"112","SidElAidi","2018_2019","CWD","Maximum length of wet spell",12,54,35,28,5,3
+"113","SidElAidi","2019_2020","NumberofDays","NumberofDays",13,47,31,26,7,4
+"114","SidElAidi","2019_2020","FD","No.of frost Days",0,0,0,0,0,0
+"115","SidElAidi","2019_2020","ID","No. of Icing Days",0,0,0,0,0,0
+"116","SidElAidi","2019_2020","SU","No.of Summer Days",0,5,6,11,1,0
+"117","SidElAidi","2019_2020","DTmax35","No.of Days with Tmax>35",0,0,0,0,0,0
+"118","SidElAidi","2019_2020","TR","No.of tropical nights",0,0,0,0,0,0
+"119","SidElAidi","2019_2020","R5mm","No.of Days rain >= 5mm",22,73.53,29.21,1.2,0,6.2
+"120","SidElAidi","2019_2020","R10mm","No.of Days rain >= 10mm",22,73.53,29.21,1.2,0,6.2
+"121","SidElAidi","2019_2020","SDII","Simple precipitation intensity index ",4.4,3.2,3.25,0,0,6.2
+"122","SidElAidi","2019_2020","Rx5day","Max 5 Days Precipitation",14,27.8,18.4,0.8,0,0
+"123","SidElAidi","2019_2020","PRECtot","Total Precipitation",22,73.53,29.21,1.2,0,6.2
+"124","SidElAidi","2019_2020","DTR","Average Temperature Range",13.28,13.11,16.46,18.24,14.23,10.57
+"125","SidElAidi","2019_2020","CDD","Maximum length of dry spell",13,47,31,26,7,4
+"126","SidElAidi","2019_2020","CWD","Maximum length of wet spell",13,47,31,26,7,4
